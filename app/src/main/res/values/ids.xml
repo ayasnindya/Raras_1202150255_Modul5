@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="coor" type="id">coor</item>
+    <item name="cardlist" type="id">cardlist</item>
+</resources>
